@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=lisittsa2050&style=flat&label=profile+views&color=orange)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi🙋‍♂️+My+name+is+Aleksei)
-===============================================================================================================================
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
