@@ -15,6 +15,7 @@
 </div>
 
 ### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseilisittsa@gmail.com)
 
 ### :fire: My GitHub Stats:
 
