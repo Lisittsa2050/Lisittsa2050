@@ -14,7 +14,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=black)
    
 ### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](mailto:alekseilisittsa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseilisittsa@gmail.com)
 
 ### :fire: My GitHub Stats:
 
