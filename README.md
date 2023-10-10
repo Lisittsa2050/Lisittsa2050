@@ -17,7 +17,7 @@
 ![DataLens](https://img.shields.io/badge/DataLens-60B5CC?style=for-the-badge&logo=datalens&logoColor=0679EA)
    
 ### 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseilisittsa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:alekseilisittsa@gmail.com)
 
 ### :fire: My GitHub Stats:
 
