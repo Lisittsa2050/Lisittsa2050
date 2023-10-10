@@ -12,9 +12,8 @@
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=ffd800)
   ![DataLens](https://img.shields.io/badge/-Seaborn-f1faee?style=for-the-badge&logo=Seaborn)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23008080?style=for-the-badge&logo=postgresql&logoColor=black)
+  ![DataLens](https://img.shields.io/badge/DataLens-60B5CC?style=for-the-badge&logo=datalens&logoColor=0679EA)
 
-### 🎨 Visualization
-![DataLens](https://img.shields.io/badge/DataLens-60B5CC?style=for-the-badge&logo=datalens&logoColor=0679EA)
    
 ### 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:alekseilisittsa@gmail.com)
