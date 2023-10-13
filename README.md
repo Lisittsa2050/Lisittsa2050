@@ -22,5 +22,6 @@
 [![Gmail](https://img.shields.io/badge/Lisittsa-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:alekseilisittsa@gmail.com)](mailto:alekseilisittsa@gmail.com)
 
 ### :fire: My GitHub Stats:
-
+<p align="center">
 <a href="http://www.github.com/Lisittsa2050"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lisittsa2050&stroke=f97316&background=000000&ring=10b981&fire=10b981&currStreakNum=f97316&currStreakLabel=10b981&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+</p>
