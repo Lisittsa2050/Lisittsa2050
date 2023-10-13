@@ -19,7 +19,7 @@
 
    
 ### 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:alekseilisittsa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Lisittsa-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:alekseilisittsa@gmail.com)](mailto:alekseilisittsa@gmail.com)
 
 ### :fire: My GitHub Stats:
 
