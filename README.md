@@ -1,10 +1,9 @@
 <a id='link1'></a>
 ![](https://komarev.com/ghpvc/?username=lisittsa2050&style=flat&label=profile+views&color=orange)
 ----------------
-<img align="right" alt="GIF" src="https://github.com/Lisittsa2050/sundry/blob/main/ef2db0885d94fd149a4b7914923bb2a3.gif" width="450" height="290" />
-<br />
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
+<img align="right" alt="GIF" src="https://github.com/Lisittsa2050/sundry/blob/main/giphy%20(2).gif" width="300" height="250" />
+<br />
 
 ### :hammer_and_wrench: Languages and Tools:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
