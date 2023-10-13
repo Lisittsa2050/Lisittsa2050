@@ -5,12 +5,6 @@
 <img align="right" alt="GIF" src="https://github.com/Lisittsa2050/sundry/blob/main/giphy%20(2).gif" width="300" height="250" />
 <br />
 ### Welcome to my profile
-- I’m currently working on Udacity Nanodegree Programme project 
-- 👀 I’m interested in coding and exploring Tech stuffs
-- 🌱 I’m currently learning PowerBI
-- 💞️ I’m looking to collaborate on Python or C# projects
-- 📫 How to reach me 
-- 📝 Check on my
 
 ### :hammer_and_wrench: Languages and Tools:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
