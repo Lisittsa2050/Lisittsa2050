@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=lisittsa2050&style=flat&label=profile+views&color=orange)
 ----------------
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Lisittsa2050/sundry/main/giphy.gif?token=GHSAT0AAAAAACH7NJN22RO2DRI4PLLETS4GZJK5EXQ" width="400" height="250" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Lisittsa2050/sundry/main/giphy010203.gif?token=GHSAT0AAAAAACH7NJN2TYDD5SLPUJX3YJPQZJLBE2Q" width="300" height="250" />
 <br />
 
 ### :hammer_and_wrench: Languages and Tools:
