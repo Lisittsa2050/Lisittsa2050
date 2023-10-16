@@ -1,10 +1,12 @@
 <a id='link1'></a>
 ![](https://komarev.com/ghpvc/?username=lisittsa2050&style=flat&label=profile+views&color=orange)
-----------------
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVkNnl1ams5YWJid2hsdWRmZ3BnamN4dmszc3FqenRvcGVrNzIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduQmmEAKfIutIxq/giphy.gif" width="300" height="250" />
 <br />
 
+----------
 ### :hammer_and_wrench: Languages and Tools:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -24,3 +26,4 @@
 <p align="center">
 <a href="http://www.github.com/Lisittsa2050"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lisittsa2050&stroke=f97316&background=000000&ring=10b981&fire=10b981&currStreakNum=f97316&currStreakLabel=10b981&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
