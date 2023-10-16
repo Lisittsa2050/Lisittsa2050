@@ -1,5 +1,6 @@
-<a id='link1'></a>
-![](https://komarev.com/ghpvc/?username=lisittsa2050&style=flat&label=profile+views&color=orange)
+<div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=lisittsa2050&style=flat&label=profile+views&color=orange" alt=""/>
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
