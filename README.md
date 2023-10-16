@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
-
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVkNnl1ams5YWJid2hsdWRmZ3BnamN4dmszc3FqenRvcGVrNzIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduQmmEAKfIutIxq/giphy.gif" width="300" height="250" />
 <br />
 
