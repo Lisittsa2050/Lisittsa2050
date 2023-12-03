@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4dTA3aGM0aHo0YjZiNjh6bGFnYnk3MjE5djMzdmZqcGdhdGdhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4XfgLyXAnyzCh7vfY/giphy.gif" width="320" height="250" />
 <br />
-- 📡 I’m interested in data analytics
+- 📡 I’m a Data Analyst passionate about helping businesses and companies identify their strengths and weaknesses, with the aim of resolving these weaknesses, and reinforcing these strengths
 - 🎯 I’m currently learning statistical methods and A/B testing
 - 🔮 I’m looking to collaborate on analytical projects involving SQL, Power BI and Python.
 
