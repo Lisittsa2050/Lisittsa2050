@@ -8,7 +8,7 @@
 <br />
 - 📡 I’m interested in data analytics
 - 🎯 I’m currently learning statistical methods and A/B testing
-- 🔮 I’m looking to collaborate on analytical projects involving SQL, Power BI, and Python.
+- 🔮 I’m looking to collaborate on analytical projects involving SQL, Power BI and Python.
 
 ### :hammer_and_wrench: Languages and Tools:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
