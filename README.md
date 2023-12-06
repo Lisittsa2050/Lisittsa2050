@@ -16,14 +16,15 @@
   ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-f1faee?style=for-the-badge&logo=jupyter)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=orange)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=ffd800)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=red)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-34495E?style=for-the-badge)
   ![DataLens](https://img.shields.io/badge/Seaborn-4F9DA3?logo=pydata&logoColor=white&style=for-the-badge)
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23008080?style=for-the-badge&logo=postgresql&logoColor=black)
   ![DataLens](https://img.shields.io/badge/datalens-7F7FD0?logo=DataLens&logoColor=white&style=for-the-badge)
   ![Redash](https://img.shields.io/badge/redash-%23D00000.svg?style=for-the-badge&logo=Redash&logoColor=white" )
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-2580C3?style=for-the-badge&logo=docker&logoColor=white)
   ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=red)
+  ![Jira](https://img.shields.io/badge/jira-f1faee?style=for-the-badge&logo=jira&logoColor=blue)
 
    
 ### 📫 How to reach me
