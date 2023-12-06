@@ -21,6 +21,9 @@
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23008080?style=for-the-badge&logo=postgresql&logoColor=black)
   ![DataLens](https://img.shields.io/badge/datalens-7F7FD0?logo=DataLens&logoColor=white&style=for-the-badge)
+  ![Redash](https://img.shields.io/badge/redash-%23D00000.svg?style=for-the-badge&logo=Redash&logoColor=white" )
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=red)
 
    
 ### 📫 How to reach me
