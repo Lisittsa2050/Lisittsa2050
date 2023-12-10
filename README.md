@@ -8,7 +8,7 @@
 <br />
 - 📡 I’m a Data Analyst passionate about helping businesses and companies identify their strengths and weaknesses, with the aim of resolving these weaknesses, and reinforcing these strengths
 - 🎯 I’m currently learning statistical methods and A/B testing
-- 🔮 I’m looking to collaborate on analytical projects involving SQL, Datalens and Python.
+- 🔮 I’m looking to collaborate on analytical projects involving SQL, DataLens and Python.
 
 ### :hammer_and_wrench: Languages and Tools:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
