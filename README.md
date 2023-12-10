@@ -23,7 +23,6 @@
   ![DataLens](https://img.shields.io/badge/datalens-7F7FD0?logo=DataLens&logoColor=white&style=for-the-badge)
   ![Redash](https://img.shields.io/badge/redash-%23D00000.svg?style=for-the-badge&logo=Redash&logoColor=white" )
   ![Docker](https://img.shields.io/badge/docker-%2335495e.svg?style=for-the-badge&logo=docker&logoColor=%234FC08D)
-  ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=red)
   ![Jira](https://img.shields.io/badge/jira-f1faee?style=for-the-badge&logo=jira&logoColor=blue)
 
    
