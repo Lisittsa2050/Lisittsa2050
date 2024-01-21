@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4dTA3aGM0aHo0YjZiNjh6bGFnYnk3MjE5djMzdmZqcGdhdGdhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4XfgLyXAnyzCh7vfY/giphy.gif" width="320" height="250" />
 <br />
 - 📡 I’m a Data Analyst passionate about helping businesses and companies identify their strengths and weaknesses, with the aim of resolving these weaknesses, and reinforcing these strengths
-- 🎯 I’m currently learning statistical methods and A/B testing
+- 🎯 Interested in Product Analytics, Mathematical Statistics and Machine Learning
 - 🔮 I’m looking to collaborate on analytical projects involving SQL, BI and Python.
 
 ### 🔱 Technology Stack:
