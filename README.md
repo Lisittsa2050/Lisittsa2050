@@ -14,7 +14,6 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-f1faee?style=for-the-badge&logo=jupyter)
-  ![DataLens](https://img.shields.io/badge/Seaborn-4F9DA3?logo=pydata&logoColor=white&style=for-the-badge)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23008080?style=for-the-badge&logo=postgresql&logoColor=black)
   ![DataLens](https://img.shields.io/badge/datalens-7F7FD0?logo=DataLens&logoColor=white&style=for-the-badge)
   ![Redash](https://img.shields.io/badge/redash-%23D00000.svg?style=for-the-badge&logo=Redash&logoColor=white" )
