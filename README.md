@@ -23,7 +23,7 @@
    
 ### 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Lisittsa-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:alekseilisittsa@gmail.com)](mailto:alekseilisittsa@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-@Alex_1999_X?style=flat&logo=Telegram&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram-@Alex_1999_X?style=flat&logo=Telegram&logoColor=black&link=mailto:@Alex_1999_X)
 
 ### 🔥 My GitHub Stats:
 <p align="center">
