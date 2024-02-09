@@ -21,7 +21,7 @@
   ![Jira](https://img.shields.io/badge/jira-f1faee?style=for-the-badge&logo=jira&logoColor=blue)
 
    
-### 📫 How to reach me
+### 📫 How to reach me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:alekseilisittsa@gmail.com)](mailto:alekseilisittsa@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alex_1999_X/)
 
