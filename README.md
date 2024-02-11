@@ -6,9 +6,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size30&pause=1000&width=435&lines=Hi👋+I'm+Aleksei)
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4dTA3aGM0aHo0YjZiNjh6bGFnYnk3MjE5djMzdmZqcGdhdGdhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4XfgLyXAnyzCh7vfY/giphy.gif" width="320" height="250" />
 <br />
-- 📡 I’m a Data Analyst passionate about helping businesses and companies identify their strengths and weaknesses, with the aim of resolving these weaknesses, and reinforcing these strengths
+- 📊 I’m a Data Analyst passionate about helping businesses and companies identify their strengths and weaknesses, with the aim of resolving these weaknesses, and reinforcing these strengths
 - 🎯 Interested in Product Analytics, Mathematical Statistics and Machine Learning
-- 🔮 I’m looking to collaborate on analytical projects involving SQL, BI and Python.
+- 📡 I’m looking to collaborate on analytical projects involving SQL, BI and Python.
 
 ### 🔱 Technology Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
