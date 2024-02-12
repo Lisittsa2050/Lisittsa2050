@@ -10,6 +10,8 @@
 - 🎯 Interested in Product Analytics, Mathematical Statistics and Machine Learning
 - 📡 I’m looking to collaborate on analytical projects involving SQL, BI and Python.
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
+
 ### 🔱 Technology Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
